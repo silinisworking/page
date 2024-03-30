@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as t}from"./app-BywbVmql.js";const n={name:"MyComponent"},c={class:"custom-component"};function s(a,_,p,m,r,d){return e(),t("div",c," This is a custom Vue component! ")}const f=o(n,[["render",s],["__scopeId","data-v-fc7d9daa"],["__file","MyComponent.vue"]]);export{f as default};
